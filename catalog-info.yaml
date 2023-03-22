@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: AvaTax-REST-V2-JS-SDK
+  annotations:
+    github.com/project-slug: jwenger100/AvaTax-REST-V2-JS-SDK
+spec:
+  type: other
+  lifecycle: unknown
+  owner: guests
